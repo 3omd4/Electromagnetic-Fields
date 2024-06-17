@@ -1,5 +1,5 @@
 # Electromagnetic-Fields
-The Iteration Method to determine the when the Electric Field vary in two different directions
+The Iteration Method to determine the Electric Field when it's varying in two different directions
 The Problem:
 The problem is the potential is completely specified on the boundaries of a given region and the potential doesn’t vary in only one direction and to solve this problem we need to use THE IRERATION METHOD which can take a lot of time if used with a pencil and paper, so it’s preferable to use digital computers.
 The Algorithm:
